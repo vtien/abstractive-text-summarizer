@@ -1,4 +1,4 @@
-# abstractive_extractive_summary_evaluation
+# Comparison of Abstractive and Extractive Text Summarization Techniques using Deep Learning Transformer Models
 
 Final for ESE 546 - Principles of Deep Learning at the University of Pennsylvania
 
